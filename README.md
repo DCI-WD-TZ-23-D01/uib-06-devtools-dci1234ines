@@ -11,7 +11,7 @@ Each task is a separate question. Add your answers directly here in the README.m
 ### Task 1
 
 - Question: Open [https://digitalcareerinstitute.org/](https://digitalcareerinstitute.org/) and inspect the DCI logo. Copy the element HTML and paste it below:
-- Answer: `<???>`
+- Answer: `<img width="1" height="1" src="https://digitalcareerinstitute.org/wp-content/uploads/2022/04/DCI_COLORS_June24_logo_wordmark_blue.svg" class="custom-logo" alt="Digital Career Institute">`
 
 ### Task 2
 
