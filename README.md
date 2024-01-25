@@ -21,7 +21,8 @@ Each task is a separate question. Add your answers directly here in the README.m
 ### Task 3
 
 - Question: Open [https://example.com/](https://example.com/) and change the text of its `<h1>` element to `Hello World!`. Take a screenshot of the result and add it as a Markdown link below:
-- Answer: ![Task 3 screenshot](screenshot.png])
+- Answer: ![Task 3 screenshot](![Bildschirmfoto vom 2024-01-25 11-36-43](https://github.com/DCI-WD-TZ-23-D01/uib-06-devtools-dci1234ines/assets/153717211/5ce20264-dbc7-4dcd-9408-bafa9542eae9)
+])
 
 ### Task 4
 
