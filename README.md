@@ -32,7 +32,7 @@ Each task is a separate question. Add your answers directly here in the README.m
 ### Task 5
 
 - Question: Open [https://facebook.com/](https://facebook.com/) and inspect it. What is the `font-family` used to show the text in the "Log In" button?
-- Answer: `???`
+- Answer: `Helvetica, Arial, sans-serif`
 
 ### Task 6
 
