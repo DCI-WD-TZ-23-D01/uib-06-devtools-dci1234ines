@@ -16,7 +16,7 @@ Each task is a separate question. Add your answers directly here in the README.m
 ### Task 2
 
 - Question: Open [https://www.bahn.de/](https://www.bahn.de/) and inspect the source code. Which attributes does its `<html>` element have?
-- Answer: `???`
+- Answer: `class, lang, data-whatinput, data-whatintent`
 
 ### Task 3
 
