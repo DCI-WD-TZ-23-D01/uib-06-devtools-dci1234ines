@@ -27,7 +27,7 @@ Each task is a separate question. Add your answers directly here in the README.m
 ### Task 4
 
 - Question: Open [https://example.com/](https://example.com/) and inspect it. What is the exact background color used?
-- Answer: `#??????`
+- Answer: `##f0f0f2;`
 
 ### Task 5
 
