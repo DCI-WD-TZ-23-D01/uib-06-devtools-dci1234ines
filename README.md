@@ -37,4 +37,5 @@ Each task is a separate question. Add your answers directly here in the README.m
 ### Task 6
 
 - Question: Open [https://developer.mozilla.org/](https://developer.mozilla.org/) and inspect it. Change the text on the page to match the encircled area in [This screenshot](Example.png). Then take your own screenshot and add a link to it below!
-- Answer: ![Task 6 screenshot](screenshot2.png])
+- Answer: ![Task 6 screenshot](![Bildschirmfoto vom 2024-01-29 11-17-34](https://github.com/DCI-WD-TZ-23-D01/uib-06-devtools-dci1234ines/assets/153717211/d2dfc0f7-cb46-437f-85a1-e40d6abcfa02)
+)
